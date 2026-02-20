@@ -49,7 +49,7 @@
         </div>
 
         <div style="background: #f5f5f5; padding: 20px; text-align: center; border-top: 1px solid #e0e0e0;">
-            <p style="color: #888; font-size: 13px; margin: 0 0 5px;">© 2024 Tu Empresa. Todos los derechos reservados.</p>
+            <p style="color: #888; font-size: 13px; margin: 0 0 5px;">© 2026 OSI. Todos los derechos reservados.</p>
             <p style="color: #999; font-size: 12px; margin: 0;">
                 <a href="#" style="color: #667eea; text-decoration: none;">Términos</a> • 
                 <a href="#" style="color: #667eea; text-decoration: none;">Privacidad</a> • 
